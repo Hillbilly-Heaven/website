@@ -4,7 +4,7 @@ import { useState } from 'react';
 import styles from './page.module.css';
 import { Chelsea_Market } from 'next/font/google';
 import ImageModal from './image-modal';
-import SubscribeToNewsletter from './subscribe-to-newsletter';
+// import SubscribeToNewsletter from './subscribe-to-newsletter';
 
 const sections = [
   {
