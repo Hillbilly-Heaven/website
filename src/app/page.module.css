@@ -1,0 +1,104 @@
+.header{
+  position: sticky;
+  top: 0;
+}
+
+.headerText {
+  font-size: xxx-large;
+  padding: 20px 0px 0px 60px;
+}
+
+.subheaderText {
+  font-size: large;
+  padding: 0px 0px 60px 60px;
+
+}
+
+.topImageWrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  display:block;
+}
+
+.topImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 50%;
+  padding: 0px 20px 0px 20px;
+}
+
+.body {
+  padding-bottom: 60px;
+}
+
+.bodyText {
+  padding: 80px 0px 0px 60px;
+  font-size: xxx-large;
+}
+
+.gridContainer {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  grid-auto-rows: row;
+  transition: transform 0.3s;
+}
+
+.gridItem {
+  width: 100%;
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+}
+
+.gridItem img:hover {
+  transform: scale(1.1);
+}
+
+.gridItem img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 50%;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+.footer {
+  border-top: 1px solid white;
+  padding: 20px 0px 60px 0px; 
+}
+
+.footerText {
+  font-size: x-large;
+  padding: 20px 0px 20px 60px;
+}
+
+.footerInfoWrapper{
+  display: flex;
+  justify-content: space-around;
+}
+
+.contact {
+  padding: 20px;
+}
+
+.contactText {
+  padding-bottom: 10px;
+}
+
+.address {
+  padding: 20px;
+}
+
+.addressText {
+  padding-bottom: 10px;
+}
+
+.subscribeWrapper {
+  padding: 20px;
+}
