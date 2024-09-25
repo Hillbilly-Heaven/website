@@ -16,15 +16,28 @@ const sections = [
       {src: '/images/goat.jpg', alt: 'Goat'},
       {src: '/images/al-feeding-calf.jpg', alt: 'Al Feeding Calf'},
       {src: '/images/angela-and-al.jpg', alt: 'Angela and Al'},
+      {src: '/images/boop.jpg', alt: 'boop'},
+      {src: '/images/Please dont hide your eggs.jpg', alt: 'Please dont hide your eggs'},
+      {src: '/images/Shepard the Magnificent .jpg', alt: 'Shepard the Magnificent '},
     ]
   },
   {
     title: 'Fresh free range eggs as well as farm raised beef, pork and lamb.',
     images: [
-      {src: '/images/ribs.jpg', alt: 'Al with Calf'},
-      {src: '/images/egg-stack.jpg', alt: 'Chicks'},
-      {src: '/images/farm-fresh-eggs.jpg', alt: 'Smiling Calf'},
-      {src: '/images/stir-fry.jpg', alt: 'Goat'},
+      {src: '/images/ribs.jpg', alt: 'Ribs'},
+      {src: '/images/egg-stack.jpg', alt: 'Egg Stack'},
+      {src: '/images/farm-fresh-eggs.jpg', alt: 'Farm Fresh Eggs'},
+      {src: '/images/stir-fry.jpg', alt: 'Stir Fry'},
+      {src: '/images/Get in my belly Porterhouse.jpg', alt: 'Get in my belly Porterhouse'},
+      {src: '/images/Look at the Brisket.jpg', alt: 'Look at the Brisket'},
+    ]
+  },
+  {
+    title: 'Our store.',
+    images: [
+      {src: '/images/Farmstore Front.jpg', alt: 'Farmstore Fronty'},
+      {src: '/images/Farmstore inside.jpg', alt: 'Farmstore inside'},
+      {src: '/images/autumn harvest.jpg', alt: 'autumn harvest'},
     ]
   },
 ]
