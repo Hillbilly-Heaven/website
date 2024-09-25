@@ -10,12 +10,12 @@ const sections = [
   {
     title: 'Around the farm',
     images: [
-      {src: '/images/al-with-calf.jpg', alt: 'Al with Calf'},
+      {src: '/images/al-with-a-calf.jpg', alt: 'Al with Calf'},
       {src: '/images/chicks.jpg', alt: 'Chicks'},
       {src: '/images/smiling-calf.jpg', alt: 'Smiling Calf'},
       {src: '/images/goat.jpg', alt: 'Goat'},
-      {src: '/images/al-feeding-calf.jpg', alt: 'Al Feeding Calf'},
-      {src: '/images/angela-and-al.jpg', alt: 'Angela and Al'},
+      {src: '/images/al-feeding-a-calf.jpg', alt: 'Al Feeding Calf'},
+      {src: '/images/angela-and-al-with-chicken.jpg', alt: 'Angela and Al'},
     ]
   },
   {
