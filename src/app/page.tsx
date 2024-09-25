@@ -96,6 +96,14 @@ export default function Home() {
             <div className={styles.addressText}>124 Murphy Road</div>
             <div>Schoharie, NY 12157</div>
           </div>
+          <div className={styles.socialMedia}>
+            <div className={styles.socialMediaText}>Follow us on Facebook</div>
+            <div className={styles.socialMediaIconWrapper}>
+              <a href="https://www.facebook.com/people/Hillbilly-Heaven/61555931450318/" target="_blank" rel="noreferrer">
+                <img src="/images/facebook-icon.png" alt="Facebook Icon" className={styles.socialMediaIcon}/>
+              </a>
+            </div>
+          </div>
           {/* <div className={styles.subscribeWrapper}>
             <SubscribeToNewsletter />
           </div> */}

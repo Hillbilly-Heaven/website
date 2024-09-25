@@ -99,6 +99,24 @@
   padding-bottom: 10px;
 }
 
+.socialMedia {
+  padding: 20px;
+}
+
+.socialMediaText {
+  padding-bottom: 10px;
+}
+
+.socialMediaIconWrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.socialMediaIcon {
+  height: 50px;
+  width: 50px;
+}
+
 .subscribeWrapper {
   padding: 20px;
 }
