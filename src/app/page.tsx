@@ -83,7 +83,7 @@ export default function Home() {
         <div className={styles.bodyHeader}>Around the farm</div>
         {sections.map((section, sectionIndex) => (
           <div key={sectionIndex} >
-            <div className={styles.bodyText}>{section.title}</div>
+            <div className={styles.sectionText}>{section.title}</div>
             <div className={styles.gridContainer}>
               {section.images.map((image, imageIndex) => (
                 <div className={styles.gridItem} key={imageIndex}>
