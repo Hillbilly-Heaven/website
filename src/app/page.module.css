@@ -1,3 +1,8 @@
+.site {
+  background-color: black;
+  color: white;
+}
+
 .header{
   position: sticky;
   top: 0;
@@ -11,7 +16,6 @@
 .subheaderText {
   font-size: large;
   padding: 0px 0px 60px 60px;
-
 }
 
 .topImageWrapper {
@@ -33,16 +37,19 @@
 .body {
   padding-bottom: 60px;
 }
+
 .bodyHeader {
   display: flex;
   justify-content: center;
-  padding: 60px 0px 0px 60px;
+  padding: 60px 60px 0px 60px;
   font-size: xxx-large;
+  text-align: center;
 }
 
 .sectionText {
   padding: 80px 60px 0px 60px;
   font-size: xx-large;
+  text-align: center;
 }
 
 .gridContainer {
