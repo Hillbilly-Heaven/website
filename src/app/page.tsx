@@ -66,7 +66,7 @@ export default function Home() {
   };
 
   return (
-    <div className={chelseaMarket.className}>
+    <div className={`${chelseaMarket.className} ${styles.site}`}>
       <div className={styles.header}>
         <div className={styles.headerText}>
           Hillbilly Heaven
